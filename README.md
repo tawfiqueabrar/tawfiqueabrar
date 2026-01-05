@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>	•	Solving programming problems using C, C++, and Java<br>	•	Building efficient algorithms and data structures<br>	•	Writing clean, optimized, and maintainable code<br><br>👯 I’m looking to collaborate on<br>	•	Coding projects (beginner to intermediate)<br>	•	Open-source repositories focused on core programming and problem solving<br><br>🤝 I’m looking for help with<br>	•	Advanced data structures & algorithms<br>	•	Writing optimized and scalable code<br><br>🌱 I’m currently learning<br>	•	Data Structures & Algorithms (DSA)<br>	•	Competitive programming concepts<br>	•	Writing better system-level code on Linux<br><br>💬 Ask me about<br>	•	C, C++, Java<br>	•	Basic to intermediate problem solving<br>	•	Coding logic and debugging<br><br>⚡ Fun fact<br>	•	I enjoy optimizing code even after it already works 🚀
+I am a passionate and detail-oriented programmer with a strong interest in problem solving, data structures, and algorithm design. I actively work with C, C++, and Java, focusing on writing clean, efficient, and maintainable code.
+
+Currently, I am strengthening my foundation in Data Structures & Algorithms (DSA) and competitive programming, while also exploring system-level programming on Linux. I enjoy breaking down complex problems, optimizing solutions, and continuously improving code performance—even after a solution is already working.
+
+I am open to collaborating on beginner to intermediate coding projects and open-source repositories that emphasize core programming concepts and logical problem solving. I am particularly interested in learning advanced algorithms, scalable code design, and performance optimization techniques.
+
+I value writing code that is not only correct, but also efficient, readable, and scalable, and I’m always eager to learn from real-world challenges and collaborative environments.
 
 
 ## 🌐 Socials:
